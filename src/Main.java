@@ -16,6 +16,5 @@ public class Main {
 
         List<String> str_2 = new ArrayList<>(List.of("один", "два","два", "три", "три", "три"));
         System.out.println("PrintService.printNumberOfUniqueWords(str_2) = " + PrintService.printNumberOfUniqueWords(str_2));
-
     }
 }
